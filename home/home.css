@@ -1,0 +1,19 @@
+#homeTitle {
+    font-size: 80px;
+    color: purple;
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+}
+
+#inputBox {
+    margin-top: 40px;
+    margin-right: 30px;
+    width: 500px;
+    height: 40px;
+}
+
+#search {
+    text-align: center;
+}
